@@ -154,8 +154,7 @@ Through this project, I learned:
 * Add Authentication
 * Add RTK Query
 * Connect with Backend API
-* Add Dark Mode
-
+ 
 ---
 
 ## Author
